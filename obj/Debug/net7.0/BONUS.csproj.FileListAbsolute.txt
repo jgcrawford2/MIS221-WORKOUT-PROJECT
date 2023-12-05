@@ -1,0 +1,14 @@
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.AssemblyInfoInputs.cache
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.AssemblyInfo.cs
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.csproj.CoreCompileInputs.cache
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\bin\Debug\net7.0\BONUS.exe
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\bin\Debug\net7.0\BONUS.deps.json
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\bin\Debug\net7.0\BONUS.runtimeconfig.json
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\bin\Debug\net7.0\BONUS.dll
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\bin\Debug\net7.0\BONUS.pdb
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.dll
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\refint\BONUS.dll
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.pdb
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\BONUS.genruntimeconfig.cache
+C:\Users\jayct\Documents\Fall2023Repos\BONUS\obj\Debug\net7.0\ref\BONUS.dll
