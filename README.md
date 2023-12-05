@@ -16,4 +16,4 @@ Successes:
 3) A lot of Console.WriteLines and Console.Write's, it was a success because these are easy to work with and not miserable
 4) Overall not a ton of issues with the rest of the code and very simple to make the changes I wanted to!
 
-Thanks for the semester lots of love from Jay and thanks for always being accomodating to me throughout and helping me grow.
+Thanks for the semester lots of love and thanks for always being accomodating to me throughout and helping me grow.
