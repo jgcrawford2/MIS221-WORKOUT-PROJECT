@@ -55,5 +55,3 @@ Welcome to the Workout Manager Software, a command-line application designed for
 ## Author
 
 - **Jay Crawford**
-
---
