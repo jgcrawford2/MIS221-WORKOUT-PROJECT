@@ -1,20 +1,59 @@
-# MIS221-WORKOUT-PROJECT
-This is my bonus project for MIS221! :) Enjoy!
+# Workout Manager Software
 
-I missed the last week entirely to work on this project.
-Unfortunately I caught strep, flu, and had many fevers throughout the span of the week leading up to this submission.
-I am glad I got it done for MIS221 though and hope someone will find the use cases throughout for this project.
+## Overview
 
-Struggles:
-1) The API was miserable to work with, I was unfamiliar with all the "using System.(etc)'s" that I needed to add at the beginning.
-2) Again on the API section, using the API Key was pretty miserable, it took me awhile to figure this out.
-3) Again on the API section, whenever I would pull an API request to the terminal, it was an absolutely MASSIVE block, learning to space this out was not easy and I had to learn how to use JsonDocument and JsonElement.
+Welcome to the Workout Manager Software, a command-line application designed for managing your workout routines, tracking exercises, logging workouts, monitoring weight and calories, and managing cardiovascular exercises. This project was developed as a bonus project for the MIS 221 course.
 
+## Features
 
-Successes:
-1) Most of this code made a ton of sense to me from the get go, I made a lot of UI changes throughout that I was really happy with.
-2) Some of the work was just repetitive and straightforward. such as logging, adding exercises/cardio/weight/etc, removals, and the cases with switch(choices).
-3) A lot of Console.WriteLines and Console.Write's, it was a success because these are easy to work with and not miserable.
-4) Overall not a ton of issues with the rest of the code and very simple to make the changes I wanted to!
+- **Exercise Management:** Add, delete, and view exercises to tailor your workout routine.
+- **Workout Logging:** Log and view your daily workouts, including a list of exercises performed.
+- **Weight and Calories Tracking:** Log and view your weight and calorie intake for each day.
+- **Cardiovascular Exercise Management:** Log and view cardiovascular exercises.
+- **Combined Data Viewing:** Get a comprehensive view of your workouts, weight, calories, and cardiovascular exercises for a specific day.
+- **API Integration:** Pull exercise information from an external API to enhance your workout planning.
 
-Thanks for the semester lots of love and thanks for always being accomodating to me throughout and helping me grow. :)
+## How to Use
+
+1. **Main Menu:**
+   - Choose options ranging from adding and managing exercises to logging and viewing workouts, weight, calories, and cardiovascular exercises.
+
+2. **Exercise Manager:**
+   - Add new exercises to your routine, delete existing ones, or view your exercise list.
+
+3. **Workout Manager:**
+   - Log your daily workouts and view them later for progress tracking.
+
+4. **Weight and Calories Manager:**
+   - Log your weight and calorie intake for each day and view the historical data.
+
+5. **Cardiovascular Manager:**
+   - Log your cardiovascular exercises and track them over time.
+
+6. **Combined Data Viewer:**
+   - View a consolidated summary of your daily activities, including workouts, weight, calories, and cardiovascular exercises.
+
+7. **API Integration:**
+   - Utilize the external API to pull exercise information based on muscle groups.
+
+## API Integration
+
+- The application integrates an external API ([API Ninjas](https://api-ninjas.com/api/exercises)) to provide detailed exercise information based on muscle groups.
+- Users can enter a muscle name to fetch relevant exercise details such as exercise type, muscle worked, equipment required, difficulty level, and instructions.
+
+## Acknowledgments
+
+- The project includes ASCII art for an engaging and personalized touch.
+- Special thanks for overcoming challenges, including illness, and successfully combining course learnings, advanced programming concepts, and API integration.
+
+## Future Improvements
+
+- GUI implementation for a more user-friendly experience.
+- Enhanced error handling and validation.
+- Additional features such as progress tracking, goal setting, and personalized recommendations.
+
+## Author
+
+- **Jay Crawford**
+
+--
